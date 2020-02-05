@@ -3,6 +3,7 @@ body{
   background: linear-gradient(-135deg, #E4A972, #9941D8);
   color: #cccccc;
   font-family: 'Sawarabi Gothic', sans-serif;
+  background-size: cover;
 }
 
 footer{
