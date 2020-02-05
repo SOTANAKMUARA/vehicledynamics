@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Sawarabi+Gothic');    
+@import url('https://fonts.googleapis.com/css?family=Sawarabi+Gothic');  
+
 body{
   background-image: url("background.jpg");
   color: #cccccc;
   font-family: 'Sawarabi Gothic', sans-serif;
-  background-size: cover;
 }
 
 footer{
@@ -22,3 +22,12 @@ footer{
   margin-bottom: 30px;
 }
 
+a{
+  color: #FF4500;
+}
+
+a:hover{
+  color:#F89172;
+  font-size: 1.5em;
+  font-weight: bold;
+}
