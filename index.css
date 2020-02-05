@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Sawarabi+Gothic');    
 body{
-  background: linear-gradient(-135deg, #E4A972, #9941D8);
+  background-image: url("background.jpg");
   color: #cccccc;
   font-family: 'Sawarabi Gothic', sans-serif;
   background-size: cover;
